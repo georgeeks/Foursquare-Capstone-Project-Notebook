@@ -34,13 +34,13 @@ We have chosen as optimal the points that satisfy the following requirements, in
 4. Establishing the layers according to the investor criteria
     a. areas with heavy pedestrian traffic like large intersections, malls, markets etc. Foursquare request  
     b. hospitals, existing clinics. Foursquare request
-    c. pharmacies in the area. Foursquare request.
+    c. pharmacies in the area. Foursquare request
     d. operating hours. Foursquare request
 5. Data Exploration, Feature engineering for optimal definition of features (criteria)
 6. Classification of layers. 
 7. Clustering according to criteria
     a. of traffic
-    b. from a distance
+    b. of distance
         - proximity - hospitals, markets
         - away - existing pharmacies
 8. View with Folium Maps
