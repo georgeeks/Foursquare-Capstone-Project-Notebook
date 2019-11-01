@@ -3,7 +3,7 @@
 
 # Business Section
 
-# PHARMA FRANCISE  - new locations
+# PHARMA FRANCISE  - new locations in Paris
 ###  A new pharmacy chain - opportunity solutions for building location
 
 
