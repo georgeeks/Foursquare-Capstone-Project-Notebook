@@ -28,24 +28,24 @@ We have chosen as optimal the points that satisfy the following requirements, in
 - Clustering  
  
 ### Methodology:
-   Understanding investor intention - prerequisite
-   Understanding the importance of optimal conditions of the localities - prerequisite
-   Defining a large area - the city, the country
-   Establishing the layers according to the investor criteria
-       areas with heavy pedestrian traffic like large intersections, malls, markets etc. Foursquare request  
-       hospitals, existing clinics. Foursquare request
-       pharmacies in the area. Foursquare request
-       operating hours. Foursquare request
-   Data Exploration, Feature engineering for optimal definition of features (criteria)
-   Classification of layers. 
-   Clustering according to criteria
+   - Understanding investor intention - prerequisite
+   - Understanding the importance of optimal conditions of the localities - prerequisite
+   - Defining a large area - the city, the country
+   - Establishing the layers according to the investor criteria
+       - areas with heavy pedestrian traffic like large intersections, malls, markets etc. Foursquare request  
+       - hospitals, existing clinics. Foursquare request
+       - pharmacies in the area. Foursquare request
+       - operating hours. Foursquare request
+   - Data Exploration, Feature engineering for optimal definition of features (criteria)
+   - Classification of layers  
+   - Clustering according to criteria
        - of traffic
        - of distance
            - proximity - hospitals, markets
            - away - existing pharmacies
-   View with Folium Maps
-   Presentation of the conclusions to the investor
-   ... Get payment ... and congrats!
+   - View with Folium Maps
+   - Presentation of the conclusions to the investor
+     ... Get payment ... and congrats!
 
 ### Tools: 
  - Anaconda Python Environment
