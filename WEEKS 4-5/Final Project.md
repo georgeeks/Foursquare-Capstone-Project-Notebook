@@ -4,9 +4,7 @@
 # FINAL PROJECT
 
 
-##  Project name: **PHARMA FRANCISE**
-
-#### a new pharmacy chain - opportunity solutions for building location
+##  Project name: **PHARMA FRANCISE** - a new pharmacy chain - opportunity solutions for building location
 
 ## General presentation
 
