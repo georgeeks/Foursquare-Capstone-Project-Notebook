@@ -6,7 +6,7 @@
 # PHARMA FRANCISE  - new locations in Paris
 ###  A new pharmacy chain - opportunity solutions for building location
 
-[](WEEKS 4-5/Paris overview.jpg)
+[](Paris overview.jpg)
 
 
 ## Business overview
