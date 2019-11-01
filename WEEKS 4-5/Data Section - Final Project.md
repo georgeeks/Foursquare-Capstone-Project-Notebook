@@ -10,7 +10,7 @@
 - Multiclass Classsification
 - Clustering  
 
-![](https://github.com/georgeeks/Foursquare-Capstone-Project-Notebook/blob/master/WEEKS%204-5/paris_map.jpg)"Paris Folium Map"
+![](https://github.com/georgeeks/Foursquare-Capstone-Project-Notebook/blob/master/WEEKS%204-5/paris_map.jpg)
  
 ### Methodology:
    - Understanding investor intention - prerequisite
