@@ -1,6 +1,5 @@
-# FINAL PROJECT  
+# FINAL PROJECT
 COURSERA - IBM - APPLIED DATA SCIENCE
-
 ## Project name
 
 : **FakePharma franchise**:  a new pharmacy chain - opportunity solutions for building location
@@ -8,5 +7,5 @@ COURSERA - IBM - APPLIED DATA SCIENCE
 ### > I. Business overview
 >>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTUyNDI5NF19
+eyJoaXN0b3J5IjpbLTM2NTY3NDkzMl19
 -->
