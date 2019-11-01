@@ -23,8 +23,8 @@ We have chosen as optimal the points that satisfy the following requirements, in
 ## Methodology, Tools and Techniques  
 
 ### Method: 
-    Geotagging
-    - Multiclass Classsification
+- Geotagging
+- Multiclass Classsification
 - Clustering  
  
 ### Methodology:
