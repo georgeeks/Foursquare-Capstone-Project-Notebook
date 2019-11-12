@@ -58,7 +58,8 @@ Our task is to propose the optimal locations for bussiness growth. We have chose
 - Understanding the importance of optimal conditions of the localities - prerequisite
 - Defining a large area - the city, the country
     - Import statistical data from The National Institute of Statistics and Economic Studies of France
-![](project_images/France_assembly_vote.svg "France regions") 
+    
+![](https://github.com/georgeeks/Foursquare-Capstone-Project-Notebook/blob/master/WEEKS%204-5%20-%20Final%20Project/project_images/France_assembly_vote.png?raw=true"France regions") 
 
     
    
