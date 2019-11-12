@@ -4,7 +4,7 @@
 # PHARMA FRANCISE  - new locations in Paris
 ###  A new pharmacy chain - opportunity solutions for building location
 
-![](https://github.com/georgeeks/Foursquare-Capstone-Project-Notebook/blob/master/WEEKS%204-5/Paris%20overview.jpg) "Paris overview"
+![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/blob/master/WEEKS%204-5/Paris%20overview.jpg) "Paris overview"
 
 ## Introduction 
 ### Business overview
@@ -12,7 +12,7 @@ Pharmacies are together with hospitals and medical clinics, essential institutio
 
 <img src="https://github.com/georgeeks/Foursquare-Capstone-Project-Notebook/WEEKS%204-5%20-%20Final%20Project/project_images/GlobalWellnessEconomy2017_bubblechart-1024x780.jpg" width="800" />
 
-
+![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/GlobalWellnessEconomy2017_bubblechart-1024x780.jpg)
 We have been approached by a new pharma investor to present an optimal solution for the placement of 10 new pharmacies in a European capital.
 Anyway, the project may serve any other investment bussines for best suited locations.
 
