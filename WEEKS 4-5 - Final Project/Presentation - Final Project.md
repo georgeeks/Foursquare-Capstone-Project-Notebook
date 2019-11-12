@@ -72,7 +72,7 @@ Our task is to propose the optimal locations for bussiness growth. We have chose
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_maps/paris_heatmap.png) 
 
    - hospitals, existing clinics. Foursquare request geolocation coordinates
-       
+![]() 
    - pharmacies in the area. Foursquare request geolocation coordinates
        
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_maps/paris_heatmap_hp.png)
