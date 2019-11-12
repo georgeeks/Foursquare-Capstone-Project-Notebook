@@ -61,7 +61,7 @@ Our task is to propose the optimal locations for bussiness growth. We have chose
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/1124px-%C3%8Ele-de-France_region_locator_map2.svg.png)
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/France_regions.png)
 
-![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/Ils-de-France.png)
+![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/Ils-de-France2.png)
 
     - The same for Paris and for Arondisments (Quarters)
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/Population_density_map_of_Paris_in_2012.svg.png) 
