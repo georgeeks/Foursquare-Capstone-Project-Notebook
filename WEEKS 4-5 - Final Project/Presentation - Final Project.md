@@ -73,7 +73,7 @@ Our task is to propose the optimal locations for bussiness growth. We have chose
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_maps/paris_heatmap.png) 
 
    - hospitals, existing clinics. Foursquare request geolocation coordinates
-![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/hospitals_coordinates.png) 
+![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/hospitals_coordinates2.png) 
    - pharmacies in the area. Foursquare request geolocation coordinates
        
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_maps/paris_heatmap_hp.png)
@@ -101,13 +101,6 @@ We have delimited special area for new locations in proximity to most populated 
    
 ## Conclusion 
 
-The project, we have gone through the process of identifying the business problem, specifying
-the data required, extracting and preparing the data, performing machine learning by clustering the
-data into 3 clusters based on their similarities, and lastly providing recommendations to the
-relevant stakeholders i.e. property developers and investors regarding the best locations to open a
-new shopping mall. To answer the business question that was raised in the introduction section,
-the answer proposed by this project is: The neighborhoods in cluster 1 are the most preferred
-locations to open a new shopping mall. The findings of this project will help the relevant
-stakeholders to capitalize on the opportunities on high potential locations while avoiding
-overcrowded areas in their decisions to open a new shopping mall.
-
+The project goes through the process of identifying the business problem, specifying
+the data required, extracting and preparing the data, performing machine learning by clustering and provides accurate recommendations to the investors regarding the best locations for a new pharmacies chain. 
+The most populated and most commercial interesting areas are in the center of the city, providing a grate economical oportunity. 
