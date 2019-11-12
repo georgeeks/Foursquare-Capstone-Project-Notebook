@@ -86,8 +86,10 @@ Our task is to propose the optimal locations for bussiness growth. We have chose
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_maps/Paris_cluster1.png)
        
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_maps/paris_clustered_venues_map.png)
-       
-   - proximity - hospitals, markets
+
+## Results
+
+We have delimited special area for new locations in proximity to most populated area of the city, nearest to hospitals, restorants, markets and transport means.
 
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_maps/center_clusters_map.png)
 
@@ -96,7 +98,15 @@ Our task is to propose the optimal locations for bussiness growth. We have chose
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_maps/Final_map.png)
    - Presentation of the conclusions to the investor
    
-## Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
+## Conclusion 
 
-## Conclusion section where you conclude the report.
+The project, we have gone through the process of identifying the business problem, specifying
+the data required, extracting and preparing the data, performing machine learning by clustering the
+data into 3 clusters based on their similarities, and lastly providing recommendations to the
+relevant stakeholders i.e. property developers and investors regarding the best locations to open a
+new shopping mall. To answer the business question that was raised in the introduction section,
+the answer proposed by this project is: The neighborhoods in cluster 1 are the most preferred
+locations to open a new shopping mall. The findings of this project will help the relevant
+stakeholders to capitalize on the opportunities on high potential locations while avoiding
+overcrowded areas in their decisions to open a new shopping mall.
 
