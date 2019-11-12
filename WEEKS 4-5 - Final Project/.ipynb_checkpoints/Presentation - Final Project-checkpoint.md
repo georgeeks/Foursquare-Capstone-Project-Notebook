@@ -64,7 +64,7 @@ Our task is to propose the optimal locations for bussiness growth. We have chose
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/Ils-de-France.png)
     - The same for Paris and for Arondisments (Quarters)
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/Population_density_map_of_Paris_in_2012.svg.png) 
- 
+![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/Paris_arondisments.png)
    - Establishing the layers according to the investor criteria
        - areas with heavy pedestrian traffic like large intersections, malls, markets etc. Foursquare request 
        
