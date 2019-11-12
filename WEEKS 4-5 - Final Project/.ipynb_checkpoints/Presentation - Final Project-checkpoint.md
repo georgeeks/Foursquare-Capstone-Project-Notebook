@@ -56,33 +56,42 @@ Our task is to propose the optimal locations for bussiness growth. We have chose
 - Understanding the importance of optimal conditions of the localities - prerequisite
 - Defining a large area - the city, the country
     - Import statistical data from The National Institute of Statistics and Economic Studies of France
-    
-![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/France_assembly_vote.png) 
-
-    
+![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/France_assembly_vote.png)
+    - Process data into Pandas DataFrame to show to most populated region
+![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/1124px-%C3%8Ele-de-France_region_locator_map2.svg.png)
+    - The same for Paris and for Arondisments (Quarters)
+![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/Population_density_map_of_Paris_in_2012.svg.png) 
    
   
-   
-   
    - Establishing the layers according to the investor criteria
-       - areas with heavy pedestrian traffic like large intersections, malls, markets etc. Foursquare request  
+       - areas with heavy pedestrian traffic like large intersections, malls, markets etc. Foursquare request 
        
- 
-       - hospitals, existing clinics. Foursquare request
+![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_maps/map_quarters.png)
+![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_maps/paris_heatmap.png) 
+
+   - hospitals, existing clinics. Foursquare request   
        
+   - pharmacies in the area. Foursquare request
        
-       - pharmacies in the area. Foursquare request
-           
-       
+![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_maps/paris_heatmap_hp.png)
        
    - Data Exploration, Feature engineering for optimal definition of features (criteria)
+
    - Classification of layers  
    - Clustering according to criteria
        - of traffic
+       
+![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_maps/paris_clustered_venues_map.png)
+       
        - of distance
-           - proximity - hospitals, markets
-           - away - existing pharmacies
+
+![]()
+
+   - proximity - hospitals, markets
+
    - View with Folium Maps
+   
+![]()
    - Presentation of the conclusions to the investor
    
 ## Results section where you discuss the results.
