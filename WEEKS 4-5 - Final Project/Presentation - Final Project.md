@@ -59,10 +59,12 @@ Our task is to propose the optimal locations for bussiness growth. We have chose
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/France_assembly_vote.png)
     - Process data into Pandas DataFrame to show to most populated region
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/1124px-%C3%8Ele-de-France_region_locator_map2.svg.png)
+![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/France_regions.png)
+
+![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/Ils-de-France.png)
     - The same for Paris and for Arondisments (Quarters)
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/Population_density_map_of_Paris_in_2012.svg.png) 
-   
-  
+ 
    - Establishing the layers according to the investor criteria
        - areas with heavy pedestrian traffic like large intersections, malls, markets etc. Foursquare request 
        
@@ -76,7 +78,7 @@ Our task is to propose the optimal locations for bussiness growth. We have chose
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_maps/paris_heatmap_hp.png)
        
    - Data Exploration, Feature engineering for optimal definition of features (criteria)
-![]()
+![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/Venues_cat.png)
    - Classification of layers  
    - Clustering according to criteria
        - of traffic
