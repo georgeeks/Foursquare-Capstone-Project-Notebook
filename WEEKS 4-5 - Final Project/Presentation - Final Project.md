@@ -4,7 +4,7 @@
 # PHARMA FRANCISE  - new locations in Paris
 ###  A new pharmacy chain - opportunity solutions for building location
 
-![](https://github.com/georgeeks/Foursquare-Capstone-Project-Notebook/blob/master/WEEKS%204-5/Paris%20overview.jpg)"Paris overview"
+![](https://github.com/georgeeks/Foursquare-Capstone-Project-Notebook/blob/master/WEEKS%204-5/Paris%20overview.jpg) "Paris overview"
 
 ## Introduction 
 ### Business overview
@@ -25,10 +25,11 @@ Our task is to propose the optimal locations for bussiness growth. We have chose
 ## Data used
 - Pharma Global Bussines stats from @ https://globalwellnessinstitute.org/
 - Pharma economic predictions from https://www.visualcapitalist.com/future-pharma-market/
-- Demographic statistics of country, regions, capital, from The National Institute of Statistics and Economic Studies of France. (<a href='https://www.insee.fr/fr/statistiques/2119468?sommaire=2119504#departements'>L’Institut national de la statistique et des études économiques</a>\)
-( <a href='https://www.insee.fr/fr/statistiques/fichier/2387611/ensemble.xls'>France Department Population</a> and <a href='https://www.insee.fr/fr/statistiques/fichier/2387611/dep75.xls'>Paris (Ile-de-France)</a>)
-(<a href='https://en.wikipedia.org/wiki/%C3%8Ele-de-France#Population_density'>**Ile-de-France** population density</a>)
-(<a href='https://en.wikipedia.org/wiki/Quarters_of_Paris'>**Paris Quarters** population density</a>)
+- Demographic statistics of country, regions, capital, from The National Institute of Statistics and Economic Studies of France. (<a href='https://www.insee.fr/fr/statistiques/2119468?sommaire=2119504#departements'>L’Institut national de la statistique et des études économiques</a>\)  
+(<a href='https://www.insee.fr/fr/statistiques/fichier/2387611/ensemble.xls'>France Department Population</a>) and   
+(<a href='https://www.insee.fr/fr/statistiques/fichier/2387611/dep75.xls'>Paris (Ile-de-France)</a>)  
+(<a href='https://en.wikipedia.org/wiki/%C3%8Ele-de-France#Population_density'>**Ile-de-France** population density</a>)  
+(<a href='https://en.wikipedia.org/wiki/Quarters_of_Paris'>**Paris Quarters** population density</a>)  
 
 
 - Geolocation coordinates of France, Ile-de-France, Paris and Arondisments through Fourquest API, GoogleMapAPI
