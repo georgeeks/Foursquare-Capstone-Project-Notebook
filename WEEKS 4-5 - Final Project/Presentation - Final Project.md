@@ -9,7 +9,7 @@
 
 ## Introduction 
 ### Business overview
-Pharmacies are together with hospitals and medical clinics, essential institutions for the health of the population. In addition to the social good, pharmacies are also a successful business.
+Pharmacies are along with hospitals and medical clinics, essential institutions for the health of the population. In addition to the social good, pharmacies are also a successful business.
 
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/GlobalWellnessEconomy2017_bubblechart-1024x780.jpg)
 We have been approached by a new pharma investor to present an optimal solution for the placement of 10 new pharmacies in a European capital.
