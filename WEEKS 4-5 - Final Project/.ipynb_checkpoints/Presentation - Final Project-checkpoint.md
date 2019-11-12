@@ -83,7 +83,7 @@ Our task is to propose the optimal locations for bussiness growth. We have chose
    - Clustering according to criteria
        - of traffic
        
-![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_maps/Paris_cluster2.png)
+![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_maps/Paris_cluster1.png)
        
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_maps/paris_clustered_venues_map.png)
        
@@ -96,6 +96,7 @@ Our task is to propose the optimal locations for bussiness growth. We have chose
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_maps/Final_map.png)
    - Presentation of the conclusions to the investor
    
+## Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
 
 ## Conclusion section where you conclude the report.
 
