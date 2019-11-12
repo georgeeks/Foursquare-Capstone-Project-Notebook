@@ -2,7 +2,7 @@
 #### COURSERA-IBM - APPLIED DATA SCIENCE - FINAL PROJECT
 
 # PHARMA FRANCISE  - new locations in Paris
-###  A new pharmacy chain - opportunity solutions for building location
+###  A new pharmacy chain - opportunity solutions for locations
 
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/Paris%20overview.jpg) "Paris overview"
 
@@ -10,8 +10,6 @@
 ## Introduction 
 ### Business overview
 Pharmacies are together with hospitals and medical clinics, essential institutions for the health of the population. In addition to the social good, pharmacies are also a successful business.
-
-<img src="https://github.com/georgeeks/Foursquare-Capstone-Project-Notebook/WEEKS%204-5%20-%20Final%20Project/project_images/GlobalWellnessEconomy2017_bubblechart-1024x780.jpg" width="800" />
 
 ![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/GlobalWellnessEconomy2017_bubblechart-1024x780.jpg)
 We have been approached by a new pharma investor to present an optimal solution for the placement of 10 new pharmacies in a European capital.
@@ -59,7 +57,7 @@ Our task is to propose the optimal locations for bussiness growth. We have chose
 - Defining a large area - the city, the country
     - Import statistical data from The National Institute of Statistics and Economic Studies of France
     
-![](https://github.com/georgeeks/Foursquare-Capstone-Project-Notebook/blob/master/WEEKS%204-5%20-%20Final%20Project/project_images/France_assembly_vote.png?raw=true"France regions") 
+![](https://raw.githubusercontent.com/georgeeks/Foursquare-Capstone-Project-Notebook/master/WEEKS%204-5%20-%20Final%20Project/project_images/France_assembly_vote.png) 
 
     
    
