@@ -103,4 +103,4 @@ We have delimited special area for new locations in proximity to most populated 
 
 The project goes through the process of identifying the business problem, specifying
 the data required, extracting and preparing the data, performing machine learning by clustering and provides accurate recommendations to the investors regarding the best locations for a new pharmacies chain. 
-The most populated and most commercial interesting areas are in the center of the city, providing a grate economical oportunity. 
+The most populated and most commercial interesting areas are in the center of the city, providing a great economical oportunity. 
