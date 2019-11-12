@@ -1,8 +1,6 @@
 
 #### COURSERA-IBM - APPLIED DATA SCIENCE - FINAL PROJECT
 
-# Business Section
-
 # PHARMA FRANCISE  - new locations in Paris
 ###  A new pharmacy chain - opportunity solutions for building location
 
@@ -16,6 +14,7 @@ We have been approached by a new pharma investor to present an optimal solution 
 ## Task overview  
 Our task is to propose the optimal locations  
 We have chosen as optimal the points that satisfy the following requirements, in the following order of importance:
+
 ### Main criteria:
 - Neighborhood of hospitals or medical clinics
 - Neighborhood of malls or areas with high pedestrian traffic
@@ -24,8 +23,15 @@ We have chosen as optimal the points that satisfy the following requirements, in
 - Neighborhood of public transport
 - Hours of operation of public locations in the area  
 
-# Data Section
 
+## Data Section
+
+### Data used
+- Pharma Global Bussines stats from @ https://globalwellnessinstitute.org/
+- Pharma economic predictions from https://www.visualcapitalist.com/future-pharma-market/
+- Demographic statistics of country, regions, capital, from The National Institute of Statistics and Economic Studies of France.
+- Geolocation coordinates of France, Ile-de-France, Paris and Arondisments through Fourquest API, GoogleMapAPI
+- Venues data, geolocation, address location 
 
 ### Method: 
 - Geotagging
