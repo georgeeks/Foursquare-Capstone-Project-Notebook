@@ -1,6 +1,8 @@
 
 #### COURSERA-IBM - APPLIED DATA SCIENCE - FINAL PROJECT
 
+[Published in Blogspot](https://maipeurma.blogspot.com/2019/11/coursera-ibm-applied-data-science-final.html?m=1)
+
 # PHARMA FRANCISE  - new locations in Paris
 ###  A new pharmacy chain - opportunity solutions for locations
 
